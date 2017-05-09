@@ -1,3 +1,4 @@
+
 class Planetas
 {
 	constructor (nombre, peso)
@@ -35,3 +36,4 @@ function printHTML (html)
   resultado.innerHTML = '';
   resultado.innerHTML = html;
 }
+
