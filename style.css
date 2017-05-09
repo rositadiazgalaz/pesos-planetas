@@ -1,0 +1,28 @@
+body  {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	background: #534d45  repeat-x left top;
+	color: white;
+}
+.peso {
+	background:#F6CEF5;
+	width:235px;
+	float:none;
+	margin:0 4px;
+	padding:10px;
+	font-weight:bold;
+	color:white;
+	border-radius: 15px
+}
+
+.boton {
+	background:#CEF6F5;
+	width:235px;
+	float:none;
+	margin:0 4px;
+	padding:10px;
+	font-weight:bold;
+	color:black;
+	border-radius: 15px
+}
+
